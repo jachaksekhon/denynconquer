@@ -1,6 +1,6 @@
-A local multiplayer game created using threads and sockets with python.
+A local multiplayer game created using multithreading and sockets with python.
 
-You run py .\server to start the server and connect clients with py .\client.
+You run py .\server.py to start the server and connect clients with py .\client.py.
 
 Here is a working demo of the game:
 
